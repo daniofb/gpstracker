@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gpstracker.pdf">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5259"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffa922;stop-opacity:1;"
+         offset="0"
+         id="stop5261" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.89504763"
+     inkscape:cx="506.62906"
+     inkscape:cy="372.04724"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="-4"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       id="rect3037"
+       width="1000"
+       height="520"
+       x="32"
+       y="342.36218"
+       style="fill:#007300;fill-opacity:1" />
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807"
+       width="140"
+       height="120"
+       x="88"
+       y="352.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="128"
+       y="412.36218"
+       id="text5265"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5267"
+         x="128"
+         y="412.36218">GPS</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-4"
+       width="140"
+       height="120"
+       x="278.82996"
+       y="353.25812" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="288"
+       y="412.36218"
+       id="text5287"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5289"
+         x="288"
+         y="412.36218">Thermometer</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-4-8"
+       width="140"
+       height="120"
+       x="460.72183"
+       y="354.15405" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="478"
+       y="412.36218"
+       id="text5309"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5311"
+         x="478"
+         y="412.36218">Barometer</tspan><tspan
+         sodipodi:role="line"
+         x="478"
+         y="428.36218"
+         id="tspan5313" /></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-4-8-4"
+       width="140"
+       height="120"
+       x="649.70459"
+       y="353.93274" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="678"
+       y="412.36218"
+       id="text5333"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5335"
+         x="678"
+         y="412.36218">Humidity</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-8"
+       width="140"
+       height="120"
+       x="828.74268"
+       y="353.31345" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="868"
+       y="412.36218"
+       id="text5355"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5357"
+         x="868"
+         y="412.36218">MMC</tspan></text>
+    <rect
+       style="fill:#225bff;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-1"
+       width="140"
+       height="120"
+       x="460.55328"
+       y="652.72821" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="490"
+       y="712.36218"
+       id="text5377"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5379"
+         x="490"
+         y="712.36218">JTAG/ISP</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-43"
+       width="140"
+       height="120"
+       x="171.33858"
+       y="505.26068" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.35297012px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="241.8573"
+       y="551.0741"
+       id="text5403"
+       sodipodi:linespacing="100%"
+       transform="scale(0.99969307,1.000307)"><tspan
+         sodipodi:role="line"
+         id="tspan5405"
+         x="241.8573"
+         y="551.0741">OLED</tspan><tspan
+         sodipodi:role="line"
+         x="241.8573"
+         y="572.42706"
+         id="tspan5407">LCD</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-0"
+       width="152.28986"
+       height="120"
+       x="362.50055"
+       y="505.14999" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="370"
+       y="562.36218"
+       id="text5427"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5429"
+         x="370"
+         y="562.36218">Battery charger</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-7"
+       width="170.16599"
+       height="120"
+       x="541.26196"
+       y="505.20535" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="550"
+       y="562.36218"
+       id="text5449"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="550"
+         y="562.36218"
+         id="tspan5453">Magnetic Sensor/</tspan><tspan
+         sodipodi:role="line"
+         x="550"
+         y="582.36218"
+         id="tspan5457">Compass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:426.00002289%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="120"
+       y="832.36218"
+       id="text5459"
+       sodipodi:linespacing="426.00002%"><tspan
+         sodipodi:role="line"
+         id="tspan5461"
+         x="120"
+         y="832.36218"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:426.00002289%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">GPS Tracker with weather station</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-06"
+       width="140"
+       height="120"
+       x="741.14062"
+       y="505.26065" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="770"
+       y="562.36218"
+       id="text5485"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan5487"
+         x="770"
+         y="562.36218">Clock</tspan></text>
+  </g>
+</svg>
