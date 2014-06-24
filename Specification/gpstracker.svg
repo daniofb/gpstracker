@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpstracker.pdf">
+   sodipodi:docname="gpstracker.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,24 +135,6 @@
          x="478"
          y="428.36218"
          id="tspan5313" /></text>
-    <rect
-       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
-       id="rect3807-4-8-4"
-       width="140"
-       height="120"
-       x="649.70459"
-       y="353.93274" />
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="678"
-       y="412.36218"
-       id="text5333"
-       sodipodi:linespacing="80.000001%"><tspan
-         sodipodi:role="line"
-         id="tspan5335"
-         x="678"
-         y="412.36218">Humidity</tspan></text>
     <rect
        style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
        id="rect3807-8"
@@ -269,18 +251,45 @@
        id="rect3807-06"
        width="140"
        height="120"
-       x="741.14062"
-       y="505.26065" />
+       x="641.14062"
+       y="355.26065" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="770"
-       y="562.36218"
+       x="670"
+       y="412.36218"
        id="text5485"
        sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
          id="tspan5487"
-         x="770"
-         y="562.36218">Clock</tspan></text>
+         x="670"
+         y="412.36218">Clock</tspan></text>
+    <rect
+       style="fill:#ff8722;fill-opacity:1;fill-rule:nonzero"
+       id="rect3807-06-8"
+       width="140"
+       height="120"
+       x="685.04572"
+       y="652.28552" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="708.34216"
+       y="373.16449"
+       id="text3039"
+       sodipodi:linespacing="80.000001%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan3041"
+         x="708.34216"
+         y="373.16449">Heart rate</tspan><tspan
+         sodipodi:role="line"
+         x="708.34216"
+         y="389.16449"
+         id="tspan3043">   monitor</tspan><tspan
+         sodipodi:role="line"
+         x="708.34216"
+         y="405.16449"
+         id="tspan3045"> (optional)</tspan></text>
   </g>
 </svg>
